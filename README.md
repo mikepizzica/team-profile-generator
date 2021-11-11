@@ -32,8 +32,6 @@ THEN I exit the application, and the HTML is generated
 ```
 
 
-## Link
-https://mikepizzica.github.io/team-profile-generator/
-
-## Screenshot
-![Screenshot of team profile generator](./assets/images/screenshot-team-profile-generator.png)
+## Links
+[Walkthrough video](https://drive.google.com/file/d/1uqYz-qH1suvAFjk1t3m4Igw-7it8W4VQ/view?usp=sharing)  
+[Sample index.html from walkthrough](https://drive.google.com/file/d/1JnhmOWBVbUIZTz_KRT_2YhgWktB__x_J/view?usp=sharing)  

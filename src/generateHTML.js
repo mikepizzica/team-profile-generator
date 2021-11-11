@@ -1,8 +1,8 @@
   // function to generate HTML
+  // ${data[0].name}
+  // ${data[1].name}
   function generateHTML(data) {
     return `
-    ${data[0].name}
-    ${data[1].name}
 <!DOCTYPE html>
 <html lang="en">
   <head>

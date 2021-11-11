@@ -1,0 +1,27 @@
+h1 {
+    background-color: rgb(233, 86, 86);
+    color: white;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+section {
+    border: black 1px solid;
+    margin: 20px;
+}
+
+h2 {
+    background-color: rgb(87, 87, 255);
+    color: white;
+    font-size: 24px;
+}
+
+.properties {
+    background-color: rgb(233, 233, 233)
+}
